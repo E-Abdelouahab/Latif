@@ -26,8 +26,7 @@ include "header.php";
 </svg>
     <h1>Les Traveaux Divers De Construction</h1>
     <h2>Latif Trav SARL: Notre objectif est de construire, rénover et/ou aménager les abords de votre maison, immeuble ou surface industrielle, dans les meilleures conditions afin d'obtenir un espace de vie et/ou de travail fonctionnel, confortable et agréable.
-Afin de mener votre projet à son terme dans les meilleures conditions, nous établissons un contact privilégié avec chacun de nos partenaires dont nous exigeons qualité du travail et professionnalisme.
-Notre renommée passe d'abord par la satisfaction de tous nos clients. c'est pourquoi, nous tenons à travailler en toute transparence, respecter scrupuleusement le devis établi et les délais impartis ainsi que rester à votre disponibilité avant, pendant et après la réalisation de vos travaux. </h2><br>
+Afin de mener votre projet à son terme dans les meilleures conditions, nous établissons un contact privilégié avec chacun de nos partenaires dont nous exigeons qualité du travail et professionnalisme. </h2><br>
     <button type="button"href="#">savoir plus</button>
 </div>
 </div>
