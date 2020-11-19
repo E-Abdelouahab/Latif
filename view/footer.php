@@ -32,7 +32,7 @@
 								<!-- big icon -->
 								<i class="fa fa-street-view"></i>
 								<!-- contact details  -->
-								<span class="contact-details"> safi, morooco, lamiaa N°546 - 2160</span>
+								<span class="contact-details"> Rue Laayoune ,Assa Zag ,81006 ,Maroc </span>
 							</div>
 						</div>
 						<div class="col-md-4 col-sm-4">
@@ -41,7 +41,7 @@
 								<!-- big icon -->
 								<i class="fa fa-wifi"></i>
 								<!-- contact details  -->
-								<span class="contact-details">ecole.safina@gmail.com</span>
+								<span class="contact-details">stelatif@outlook.com</span>
 							</div>
 						</div>
 						<div class="col-md-4 col-sm-4">
@@ -50,7 +50,7 @@
 								<!-- big icon -->
 								<i class="fa fa-phone"></i>
 								<!-- contact details  -->
-								<span class="contact-details">(+212) 05-24 61 16 73</span>
+								<span class="contact-details">(+212) 06- 61 11 89 06</span>
 							</div>
 						</div>
 					</div>
@@ -122,15 +122,15 @@
 							<div class="row">
 								<div class="col-md-4 col-12">
 									<i class="fas fa-map-marker-alt fa-2x"></i>
-                                    <span> 'maroc' safi lamiaa N°657   </span>
+                                    <span> Rue Laayoune Assa Zag 81006 Maroc    </span>
 								</div>
 								<div class="col-md-4 col-12">
 									<i class="fas fa-phone fa-2x"></i>
-									<span>(+212) 05246-11673</span>
+									<span>(+212) 06- 61 11 89 06</span>
 								</div>
 								<div class="col-md-4 col-12">
 									<i class="fas fa-envelope fa-2x"></i>
-									<span> ecole.safina@gmail.com </span>
+									<span> stelatif@outlook.com </span>
 								</div>
 							</div>
 						</div>
@@ -139,7 +139,7 @@
 						<div class="col-lg-3 col-md-6 col-12">
 							<div class="item">
 								<h4 class="text-capitalize">À propos  De Nous</h4>
-								<p>Bienvenue à nos précieux clients de l'institution de formation à la conduite , qui dispose de programmes  avancés et de 2 cadres avec une grande expérience dans ce domaine, car cela vous permet d'acquérir suffisamment d'informations pour réussir l'examen facilement Avec toi jusqu'au succès ...</p>
+								<p>societé Latif Trav C'est une entreprise marocaine œuvrant dans le domaine des travaux publics et de la construction, ainsi que tous les autres services liés aux grands travaux, installation, eau, électricité, énergie solaire, transport, équipement et logistique, décoration et design ...</p>
 							</div>
 						</div>
 						<div class="col-lg-3 col-md-6 col-12">
@@ -194,7 +194,7 @@
 						<li><a href="https://mail.google.com/mail/u/2"><i class="fab fa-google-plus-square fa-2x"></i></a></li>
 					    </ul>
 					<div class="copyright">
-						<p> 2020 tout les droit © se sans reservez</p>
+						<p> HTmedia 2020 tout les droit © se sans reservez</p>
 					</div>
 				</div>
 			</footer> 
